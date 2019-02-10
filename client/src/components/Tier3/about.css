@@ -1,0 +1,11 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+
+li {
+    font-family: 'Secular One', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Secular+One');

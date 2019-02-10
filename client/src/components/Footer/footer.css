@@ -1,0 +1,20 @@
+ .footer {
+   position: inline-center;
+ color: whitesmoke;
+ font-size: 20px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ text-shadow: 2px 2px 5px rgb(255, 255, 255);
+}
+
+
+/* .footer span {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 3px;
+  background: #B8B8B8;
+}   */
+
+
+
